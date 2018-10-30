@@ -61,4 +61,4 @@ The Component optionally takes the props **maxZoom** and **zoomStep**
  
 ## Implementation Walkthrough
 This section provides Screenshots and walkthrough of the features and functionalities - 
- ![Initial UI Screen](https://picasaweb.google.com/108821568387291697254/6618137713519386257#6618137713757506114)
+ ![Initial UI Screen](./assets/scr1.png)
